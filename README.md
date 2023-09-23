@@ -29,4 +29,11 @@ denoising net to denoise the latent. Forthly, an image can be produce by using
 decoder. Check the image. If the image doesn’t show any signature of plane, go back to the third step to denoise the latent further and decode it. Continue
 this loop until some kind of plane emerges, and save the image by hand if you
 like. Please see the code in latent_diffusion.py and functions.py, and run
-latent_diffusion.py to generate a plane image. BUT don’t expect too much. Only a blurry plane shape might emerge at most. 
+latent_diffusion.py to generate a plane image. BUT don’t expect too much. Only a blurry plane shape might emerge at most.
+
+![Figure_11](https://github.com/guangjieguo/latent-diffusion/assets/145815863/ec9a92f4-96ff-4ae9-8c62-c8d579e28115)
+
+![Figure_26](https://github.com/guangjieguo/latent-diffusion/assets/145815863/ce7eae17-ec33-4598-8445-2a209baf476c)
+
+![Figure_23](https://github.com/guangjieguo/latent-diffusion/assets/145815863/8687c73f-1b7c-4aaa-b651-63436dc4210b)
+
