@@ -30,8 +30,7 @@ decoder. Check the image. If the image doesn’t show any signature of plane, go
 this loop until some kind of plane emerges, and save the image by hand if you
 like. Please see the code in latent_diffusion.py and functions.py, and run
 latent_diffusion.py to generate a plane image. BUT don’t expect too much. Only a blurry plane shape might emerge at most.
-
-Please see generated_iamges
+Please see generated_iamges.jpg for examples.
 
 
 
