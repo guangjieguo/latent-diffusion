@@ -1,6 +1,6 @@
 # latent-diffusion
 This is for an assignment for my Deep Learning class. What I did is doing latent diffusion from scratch. 
-smallNORB Dataset is used to train the neural networks. The project has been done by the following steps.
+smallNORB Dataset is used to train the neural networks. The project has been done by following steps.
 
 1. Use the neural network in example3autoenc.py and smallnorb.data to train a
 model for copying images. Then, the saved net can be divided at the fully
