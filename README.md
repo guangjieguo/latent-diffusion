@@ -31,7 +31,7 @@ this loop until some kind of plane emerges, and save the image by hand if you
 like. Please see the code in latent_diffusion.py and functions.py, and run
 latent_diffusion.py to generate a plane image. BUT don’t expect too much. Only a blurry plane shape might emerge at most.
 
-![1695511340087](https://github.com/guangjieguo/latent-diffusion/assets/145815863/7bd5d4f3-31bf-41f8-a296-72185e36a66b)
+Please see generated_iamges
 
 
 
